@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <p align="center">
+<p align="center">
   <a href="https://github.com/riztaha">
   </a>
 </p>
@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 </p>
 
 📫 You can reach me at **riztaha@gmail.com**
+<p align="left">
+  <a href="http://linkedin.com/in/taharizvi/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 - ⚡ Fun fact: I can beatbox
 - 🔭 I'm currently learning: Python
 - 👯 I'm currently working: at a local Software Company in Pennsylvania building tech solutions for schoolboards.
@@ -40,7 +45,7 @@ Here are some ideas to get you started:
 <h3 align="left">Web Technologies:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,ts,react,vue,jquery,nodejs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=css,html,ts,react,vue,jquery,nodejs,dotnet,django,ai" />
   </a>
 </p>
 
@@ -54,8 +59,10 @@ Here are some ideas to get you started:
 <h3 align="left">Tools & Technologies:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,postman,linux,azure,heroku,netlify" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,postman,linux,azure,heroku,netlify" />
   </a>
 </p>
 
-[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=riztaha)](https://github.com/riztaha/github-readme-stats)
+<!-- [![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=riztaha)](https://github.com/riztaha/github-readme-stats)
+-->
+
