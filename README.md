@@ -25,12 +25,16 @@ Here are some ideas to get you started:
   </h1>
 </p>
 
-📫 You can reach me at **riztaha@gmail.com**
+📫 You can reach me at:
 <p align="left">
   <a href="http://linkedin.com/in/taharizvi/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="mailto:riztaha@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
+
 - ⚡ Fun fact: I can beatbox
 - 🔭 I'm currently learning: Python
 - 👯 I'm currently working: at a local Software Company in Pennsylvania building tech solutions for schoolboards.
