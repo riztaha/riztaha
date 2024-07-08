@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/riztaha">
-  </a>
-</p>
-
-<p align="center">
   <h1 align="center">
     <a href="https://github.com/riztaha">
       <img src="https://readme-typing-svg.demolab.com/?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=600&lines=👋+Taha+Rizvi;Software+Engineer+%7C+Full+Stack+Developer" />
