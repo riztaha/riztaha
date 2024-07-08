@@ -1,7 +1,4 @@
-## Hi there 👋
-
 <!--
-**riztaha/riztaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +11,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ <p align="center">
+  <a href="https://github.com/riztaha">
+  </a>
+</p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/riztaha">
+      <img src="https://readme-typing-svg.demolab.com/?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=600&lines=👋+Taha+Rizvi;Software+Engineer+%7C+Full+Stack+Developer" />
+    </a>
+  </h1>
+</p>
+
+📫 You can reach me at **riztaha@gmail.com**
+- ⚡ Fun fact: I can beatbox
+- 🔭 I'm currently learning: Python
+- 👯 I'm currently working: at a local Software Company in Pennsylvania building tech solutions for schoolboards.
+
+<h3 align="left">Languages:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,js" />
+  </a>
+</p>
+
+<h3 align="left">Web Technologies:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,ts,react,vue,jquery,nodejs,dotnet" />
+  </a>
+</p>
+
+<h3 align="left">Databases:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+  </a>
+</p>
+
+<h3 align="left">Tools & Technologies:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,postman,linux,azure,heroku,netlify" />
+  </a>
+</p>
+
+[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=riztaha)](https://github.com/riztaha/github-readme-stats)
