@@ -25,9 +25,6 @@ Here are some ideas to get you started:
   <a href="http://linkedin.com/in/taharizvi/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:riztaha@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
 </p>
 
 - ⚡ Fun fact: I can beatbox
