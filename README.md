@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I can beatbox
 - 🔭 I'm currently learning: Python
-- 👯 I'm currently working: at a local Software Company in Pennsylvania building tech solutions for schoolboards.
+- 👯 I'm currently working: at a local Software Company in Pennsylvania. My work enables school districts and state agencies to streamline compliance processes, improve data accuracy, and enhance the educational experience for students with special needs or gifted programs. By delivering reliable and user-friendly web applications, I help ensure that educators and administrators can focus on what matters most: supporting students.
 
 <h3 align="left">Languages:</h3>
 <p align="left">
